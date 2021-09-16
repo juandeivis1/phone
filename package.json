@@ -1,11 +1,11 @@
 {
-  "name": "phone",
-  "version": "3.1.6",
+  "name": "@juandeivis1/phone",
+  "version": "1.0.0",
   "description": "With a given country and phone number, validate and format the phone number to E.164 standard",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
   "engines": {
-    "node": ">=12"
+    "node": ">=10"
   },
   "directories": {
     "lib": "./src/lib"
